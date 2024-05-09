@@ -47,8 +47,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LautaroSantillan.LautaroSantillan&left_text=Counter%20of%20visitors"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LautaroSantillan.LautaroSantillan&left_text=Counter%20of%20visits"  />
 </div>
 
 ###
