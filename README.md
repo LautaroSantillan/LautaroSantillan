@@ -9,6 +9,10 @@
 
 ###
 
+<img align="right" height="150" src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -43,18 +47,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LautaroSantillan/LautaroSantillan/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LautaroSantillan.LautaroSantillan&left_color=cornflowerblue&right_color=darkmagenta&left_text=Visitors"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=LautaroSantillan&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LautaroSantillan.LautaroSantillan&left_text=Counter%20of%20visitors"  />
 </div>
 
 ###
